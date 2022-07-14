@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+count=10
+x=1
+until [ $x -lt $count ];
+do echo "Best School"
+ $(( expr + x ))
+done

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#This is the easy bash pid script
+pgrep -l "bash"
+
+

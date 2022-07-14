@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#this is the for command 
+for _ in {1..10}
+do
+    echo "Best School"
+done
+

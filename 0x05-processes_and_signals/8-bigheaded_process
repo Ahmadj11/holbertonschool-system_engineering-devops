@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#bigheaded script
+pkill -9 -f "7-highlander"
+

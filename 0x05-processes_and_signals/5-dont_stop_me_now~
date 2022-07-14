@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+#this is the kill script
+kill $(ps aux | grep $x)
+
+
+
+
+
